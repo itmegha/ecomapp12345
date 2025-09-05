@@ -1,0 +1,12 @@
+.card1{
+  float: left;
+  border: 2px solid black;
+  margin: 10px;
+  box-shadow: 10px 10px 10px 10px rgb(217, 217, 232);
+}
+.btn1{
+  margin-left: 200px;
+}
+.btn1 button{
+  margin: 10px;
+}
